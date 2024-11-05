@@ -13,7 +13,8 @@ My code is a python progrom used to create "random" characters for a video game.
 
 ## Author
 
-
+Hi I am Nate Ventura. I am a new coder and this is my first repo and project that I have ever done. I hope you like how concise my project is and how well It runs. I hope to improve as a coder and continue to make cool projects like this.
+https://github.com/MrMonkey777
 
 ## Code Example
 
