@@ -25,4 +25,3 @@ if gender == "male":
         print("Their iq is ",iq[random.randint(0,179)])
         print("Their ethnicity is ",ethnicity[random.randint(0,221)])
         print("They are ",height[random.randint(0,28)]," feet tall\n")
-```python
